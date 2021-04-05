@@ -1,0 +1,33 @@
+{
+  "name": "roxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "python2": "0.0.1",
+    "strip-indent": "^3.0.0",
+    "yarn": "^1.22.10",
+    "yt-search": "^2.5.0",
+    "ytdl-core": "^4.5.0",
+    "ytdl-core-discord": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "roxy"
+  ],
+  "author": "ilysm#9799",
+  "license": "ISC"
+}
